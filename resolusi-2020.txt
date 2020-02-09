@@ -1,5 +1,5 @@
 RESOLUSI 2020
--bisa framework php codeigniter dan javascript
+-bisa framework php codeigniter dan laravel
 -bisa framework javascript vue.js dan reactjs react native
 -membuat toko online dengan laravel dan vue.js
 -membuat website rental mobil v2 dengan codeigniter
