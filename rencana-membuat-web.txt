@@ -7,3 +7,4 @@ studi kasus
 -membuat toko online dengan laravel
 -membuat rental mobil dengan codeigniter
 -membuat website sekolah dengan codeigniter
+-membuat website travelling
