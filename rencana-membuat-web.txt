@@ -1,5 +1,5 @@
 Rencana membuat website
 
--membuat toko online
--membuat rental mobil
--membuat website sekolah
+-membuat toko online dengan laravel
+-membuat rental mobil dengan codeigniter
+-membuat website sekolah dengan codeigniter
