@@ -1,6 +1,10 @@
 Rencana membuat website
-
+-belajar laravel
+-belajar vue.js
+-belajar react native
+studi kasus
 -membuat portfolio
 -membuat toko online dengan laravel
 -membuat rental mobil dengan codeigniter
 -membuat website sekolah dengan codeigniter
+-membuat website travelling
