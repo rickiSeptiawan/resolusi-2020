@@ -1,5 +1,6 @@
 Rencana membuat website
 
+-membuat portfolio
 -membuat toko online dengan laravel
 -membuat rental mobil dengan codeigniter
 -membuat website sekolah dengan codeigniter
