@@ -4,3 +4,4 @@ RESOLUSI 2020
 -membuat toko online dengan laravel dan vue.js
 -membuat website rental mobil v2 dengan codeigniter
 -membuat website smk al hikmah curug
+-membuat applikasi android
